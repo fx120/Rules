@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,acgvideo.com
   - DOMAIN-SUFFIX,b23.tv
   - DOMAIN-SUFFIX,bilibili.com
+  - DOMAIN-SUFFIX,synology.com
   - DOMAIN-SUFFIX,bilibili.tv
   - DOMAIN-SUFFIX,biliapi.net
   - DOMAIN-SUFFIX,biliapi.com
